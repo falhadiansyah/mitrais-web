@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <title>@yield('title')</title>
-    <!-- Favicon-->
-    <link rel="icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
     @section('font')
     <!-- Google Fonts -->
